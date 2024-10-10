@@ -1,0 +1,9 @@
+Version control, also known as source control, is the practice of tracking and managing changes to software code. 
+Version control systems are software tools that help software teams manage changes to source code over time.
+
+Here are some benefits of version control: 
+Record of changes: VCS keeps a record of all code changes, which can be used to pinpoint when and how a bug was introduced. 
+Collaboration: VCS allows teams to collaborate on a project's source code. 
+Branching: VCS allows developers to work on separate streams of change, which can be merged back together later. 
+Reverting changes: VCS allows users to revert changes if needed. 
+Some popular VCS options include Git, Mercurial, SVN, and preforce.
